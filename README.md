@@ -1,12 +1,12 @@
-<h1 align="center">👋 Halo, Saya Fandy</h1>
+<h1 align="center">Halo, saya Fandy 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Freelancer+%7C+AI+Prompt+Engineer+%7C+Web+Developer;Pembuat+Prompt+Veo+3%2C+ChatGPT+%26+Gemini;Builder+Dashboard+Admin+%26+Sistem+SKL;Termux+Automation+%26+Eksperimen+AI+Gila" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Web+Developer+%7C+AI+Prompt+Engineer+%7C+Open+Source+Enthusiast;Membangun+Dashboard,+Prompt+Generator,+dan+Sistem+Otomatisasi" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧠 Skill yang Saya Kuasai
+## 🧠 Teknologi yang Dikuasai
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,flask,github,linux,bash,vscode" />
@@ -14,35 +14,18 @@
 
 ---
 
-## 🕹️ Animasi Game Ular 🐍 (GitHub Snake)
+## 📌 Proyek Unggulan
 
-<p align="center">
-  <img src="https://github.com/USERNAME_KAMU/USERNAME_KAMU/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
-## ⚙️ Bahasa yang Dikuasai (Statistik Visual)
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=USERNAME_KAMU&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=USERNAME_KAMU&theme=github_dark" />
-</p>
+| Proyek | Deskripsi | Teknologi |
+|--------|-----------|-----------|
+| **Prompt Forge** | Aplikasi pembuat prompt AI untuk platform seperti Gemini dan ChatGPT. | HTML, JavaScript |
+| **Dashboard SKL** | Sistem upload dan manajemen file SKL PDF langsung ke GitHub. | Flask, GitHub API |
+| **Web Pengumuman Kelulusan** | Halaman kelulusan dengan countdown dan efek animasi. | HTML, CSS, JavaScript |
+| **Absensi Otomatis** | Sistem absensi berbasis Termux dengan integrasi Google Sheets. | Python, Bash |
 
 ---
 
-## 🚀 Proyek Terbaik Saya
-
-| 💼 Proyek | Deskripsi | Teknologi |
-|----------|-----------|-----------|
-| 🎯 Prompt Forge | Aplikasi pembuat prompt AI berkualitas tinggi (ChatGPT, Gemini, Veo3) | HTML, JS |
-| 📁 Dashboard SKL | Upload PDF SKL dari admin ke GitHub langsung via JSON | Flask, GitHub API |
-| ⏰ Web Kelulusan | Countdown + NISN input + animasi confetti | HTML, CSS, JS |
-| 🧾 Absensi Siswa | Presensi otomatis via Termux + web rekap harian | Python, Bash, Google Sheets |
-
----
-
-## 📊 Statistik GitHub Saya
+## 📊 Statistik GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight" height="160"/>
@@ -51,7 +34,26 @@
 
 ---
 
-## ☎️ Kontak Saya
+## 📚 Bahasa Pemrograman Teratas
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=USERNAME_KAMU&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=USERNAME_KAMU&theme=github_dark" />
+</p>
+
+---
+
+## 🎮 Aktivitas Interaktif
+
+> Menunjukkan pola kontribusi saya dalam bentuk animasi sederhana.
+
+<p align="center">
+  <img src="https://github.com/USERNAME_KAMU/USERNAME_KAMU/raw/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+</p>
+
+---
+
+## 📬 Hubungi Saya
 
 <p align="center">
   <a href="https://wa.me/6282193855270">
@@ -64,9 +66,9 @@
 
 ---
 
-## 💬 Kata-Kata
+## ✨ Kutipan Favorit
 
-> "_Koding itu bukan soal siapa paling jago, tapi siapa paling konsisten dan niat belajar._"  
+> _"Belajar teknologi bukan tentang siapa tercepat, tapi siapa yang terus bertumbuh dan beradaptasi."_  
 > — Fandy
 
 <p align="center">

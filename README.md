@@ -18,38 +18,10 @@
 
 | Proyek | Deskripsi | Teknologi |
 |--------|-----------|-----------|
-| **Prompt Forge** | Aplikasi pembuat prompt AI untuk platform seperti Gemini dan ChatGPT. | HTML, JavaScript |
-| **Dashboard SKL** | Sistem upload dan manajemen file SKL PDF langsung ke GitHub. | Flask, GitHub API |
-| **Web Pengumuman Kelulusan** | Halaman kelulusan dengan countdown dan efek animasi. | HTML, CSS, JavaScript |
-| **Absensi Otomatis** | Sistem absensi berbasis Termux dengan integrasi Google Sheets. | Python, Bash |
-
----
-
-## 📊 Statistik GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=tokyonight" height="160"/>
-</p>
-
----
-
-## 📚 Bahasa Pemrograman Teratas
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=USERNAME_KAMU&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=USERNAME_KAMU&theme=github_dark" />
-</p>
-
----
-
-## 🎮 Aktivitas Interaktif
-
-> Menunjukkan pola kontribusi saya dalam bentuk animasi sederhana.
-
-<p align="center">
-  <img src="https://github.com/USERNAME_KAMU/USERNAME_KAMU/raw/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
-</p>
+| **Prompt Forge** | Tool pembuat prompt AI profesional untuk ChatGPT, Gemini, dan Veo 3. | HTML, JavaScript |
+| **Dashboard SKL** | Sistem manajemen file PDF SKL terhubung langsung ke GitHub repo. | Flask, GitHub API |
+| **Web Kelulusan** | Countdown kelulusan + input NISN + animasi interaktif. | HTML, CSS, JavaScript |
+| **Absensi Otomatis** | Sistem presensi siswa otomatis via Termux & Google Sheets. | Python, Bash |
 
 ---
 
@@ -66,10 +38,18 @@
 
 ---
 
-## ✨ Kutipan Favorit
+## 💡 Filosofi Pengembangan
 
-> _"Belajar teknologi bukan tentang siapa tercepat, tapi siapa yang terus bertumbuh dan beradaptasi."_  
+> _"Kualitas terbaik bukan selalu yang kompleks, tapi yang efektif dan dipahami pengguna."_  
 > — Fandy
+
+---
+
+## 🎯 Fokus Saat Ini
+
+- Meningkatkan skill backend dengan Python & Flask  
+- Membangun tool AI yang membantu pekerjaan manusia  
+- Membangun sistem otomatisasi dashboard dengan integrasi GitHub
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0FF9B3&height=150&section=footer" />

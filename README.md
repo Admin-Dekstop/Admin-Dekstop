@@ -16,12 +16,22 @@
 
 ## 🌟 Proyek Unggulan
 
-| 🚀 Proyek            | 📋 Deskripsi                                                                 | 🛠️ Teknologi           |
-|----------------------|------------------------------------------------------------------------------|-------------------------|
-| **Prompt Forge**     | Tool pembuat prompt AI profesional untuk ChatGPT, Gemini, dan Veo 3.        | `HTML`, `JavaScript`    |
-| **Dashboard SKL**    | Sistem manajemen file SKL PDF otomatis via GitHub.                          | `Flask`, `GitHub API`   |
-| **Web Kelulusan**    | Website countdown kelulusan dengan animasi & input NISN.                    | `HTML`, `CSS`, `JS`     |
-| **Absensi Otomatis** | Sistem absensi siswa otomatis via Termux & Google Sheets.                   | `Python`, `Bash`        |
+| 🚀 Proyek            | 📋 Deskripsi                                                                 | 🛠️ Teknologi                |
+|----------------------|------------------------------------------------------------------------------|------------------------------|
+| **Prompt Forge**     | Tool pembuat prompt AI profesional untuk ChatGPT, Gemini, dan Veo 3.        | `HTML`, `JavaScript`         |
+| **EduForge AI**      | Generator otomatis LKPD, RPP, dan soal ujian interaktif untuk guru.         | `Python`, `HTML`, `Flask`    |
+| **Web Kelulusan**    | Website countdown kelulusan dengan animasi & input NISN.                    | `HTML`, `CSS`, `JS`          |
+
+---
+
+## 📜 Sertifikat Saya
+
+<p align="center">
+  <img src="assets/sertifikat1.png" width="45%" alt="Sertifikat 1" />
+  <img src="assets/sertifikat2.png" width="45%" alt="Sertifikat 2" /><br><br>
+  <img src="assets/sertifikat3.png" width="45%" alt="Sertifikat 3" />
+  <img src="assets/sertifikat4.png" width="45%" alt="Sertifikat 4" />
+</p>
 
 ---
 

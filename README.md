@@ -28,9 +28,9 @@
 
 <p align="center">
   <img src="assets/sertifikat1.png" width="45%" alt="Sertifikat 1" />
-  <img src="assets/sertifikat2.png" width="45%" alt="Sertifikat 2" /><br><br>
-  <img src="assets/sertifikat3.png" width="45%" alt="Sertifikat 3" />
-  <img src="assets/sertifikat4.png" width="45%" alt="Sertifikat 4" />
+  <img src="assets/sertifikat2.jpg" width="45%" alt="Sertifikat 2" /><br><br>
+  <img src="assets/sertifikat3.jpg" width="45%" alt="Sertifikat 3" />
+  <img src="assets/sertifikat4.jpg" width="45%" alt="Sertifikat 4" />
 </p>
 
 ---
